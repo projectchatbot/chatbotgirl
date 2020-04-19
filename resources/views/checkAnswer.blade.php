@@ -37,9 +37,11 @@
 	    <button type="button" class="btn-check btn btn-primary">Weiter zu dem Chatbot </button>
 	    </a></div>
           @else
-            <div class="check">Sie haben leider nicht alle Fragen richtig beantwortet!<br>
+            <div class="check">
+		<h4 style="color: yellow; font-size: 140%;">Sie haben leider nicht alle Fragen richtig beantwortet!</h4>
+		<br> 
 	    </div>
-	    <div class="description">Lesen Sie sich die Anleitung auf der Hauptseite bitte noch mal durch und versuchen Sie es noch einmal.</div>
+	    <div class="description">Lesen Sie sich die Anleitung auf der Hauptseite bitte nochmal durch und versuchen Sie es erneut.</div>
 	   <div style="margin: 0 120px 0 120px;">
 	   <a href="/ ">
               <button type="button" class="btn-check btn btn-primary">Zurück zur Hauptseite </button>
@@ -48,13 +50,7 @@
 	
 	<br><br>
 
-
         </main>
-
-        <div class="footer">
-          Copyright @Uni Goettingen
-        </div>
-
 
 </body>
 

@@ -46,11 +46,10 @@
                 4. Wenn Sie die Unterhaltung mit dem Chatbot erfolgreich durchgeführt haben, werden Sie
                 zur Umfrage weitergeleitet.<br><br>
 		5. <strong>Ganz wichtig</strong>: Sie können den Amazon Gutschein erst dann gewinnen, wenn Sie die Umfrage <strong>vollständig</strong> ausgefüllt haben.
-		<br> Geben Sie dafür bitte Ihre (richtige) E-Mail-Adresse an, damit wir Ihnen den Gutscheincode zusenden können, falls Sie diesen gewonnen haben sollten.
+		<br> Geben Sie dafür bitte Ihre (tatsächliche) E-Mail-Adresse an, damit wir Ihnen den Gutscheincode zusenden können, falls Sie diesen gewonnen haben sollten.
             </p>
 
           </div>
-
 
           <hr style="margin-top:20px;">
 
@@ -70,10 +69,6 @@
 
 
         </main>
-
-        <div class="footer">
-          Copyright @Uni Göttingen
-        </div>
 
 
 </body>

@@ -80,18 +80,8 @@
                   <span class="btn btn-primary" style="font-size: 15pt;">Abschicken</span>
               </button>
           </form>
-
         </div>
-
-
-
         </main>
-
-        <div class="footer">
-          Copyright @Uni Goettingen
-        </div>
-
-
 </body>
 
 </html>
